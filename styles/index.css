@@ -1,0 +1,14 @@
+body > img:first-child {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 5rem;
+  border: 2px solid lightgrey;
+}
+
+h2 {
+  margin: 2rem 0 0.5rem;
+}
+
+ul {
+  margin: 0;
+}
