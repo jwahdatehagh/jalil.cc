@@ -2,7 +2,7 @@
 class: home
 ---
 
-![](/nfts/jalil-punk@sm.png){.profile-img}
+![](https://ipfs.vv.xyz/ipfs/Qmaj7GtVsadwDZxj17DnXXHCpZqadPU3XaqGMLjzizMsF9){.profile-img}
 
 # jalil
 consensus experiments at [visualize value](https://vv.xyz).

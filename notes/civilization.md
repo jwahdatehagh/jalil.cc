@@ -4,16 +4,12 @@ description: principles for a new world
 date: 2023-10-13
 ---
 
-<script setup>
-import Video from '../components/Video.vue'
-</script>
-
 *Oct 13th 2023, [originally published on X](https://x.com/jalil_eth/status/1712868828256797112)*
 # Civilization
 
 <Video 
   src="https://ipfs.vv.xyz/ipfs/QmVAVgdpJrZF3rHA9DyEhVAJCnmR4RM75vBpZoi5bnvxog?filename=nft.mp4"
-  poster="/nfts/nations-to-nodes.png"
+  poster="https://ipfs.vv.xyz/ipfs/QmdaQx7RjFRaTd8f3NqBC9LHyZTfBcFoEjyE3Juwd1XyY9?filename=nations-to-nodes.png"
   :caption="{ text: 'From Nations to Nodes by Jack Butcher', link: 'https://foundation.app/mint/eth/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405/20577' }"
 />
 

@@ -4,16 +4,12 @@ description: unity is the foundation of everything we cherish.
 date: 2022-02-02
 ---
 
-<script setup>
-import Video from '../components/Video.vue'
-</script>
-
 *Feb 2nd, 2022, [originally published on X](https://x.com/jalil_eth/status/1496875511364009984)*
 # Unity
 
 <Video 
-  src="https://ipfs.vv.xyz/ipfs/QmVAVgdpJrZF3rHA9DyEhVAJCnmR4RM75vBpZoi5bnvxog?filename=nft.mp4"
-  poster="/nfts/nations-to-nodes.png"
+  src="https://ipfs.vv.xyz/ipfs/QmVAVgdpJrZF3rHA9DyEhVAJCnmR4RM75vBpZoi5bnvxog"
+  poster="https://ipfs.vv.xyz/ipfs/QmdaQx7RjFRaTd8f3NqBC9LHyZTfBcFoEjyE3Juwd1XyY9?filename=nations-to-nodes.png"
   :caption="{ text: 'From Nations to Nodes by Jack Butcher', link: 'https://foundation.app/mint/eth/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405/20577' }"
 />
 
@@ -100,7 +96,7 @@ We can only find truth through unity.
 
 The only thing that is right is unity.
 
-![](/nfts/truth-perception.png)
+![](https://ipfs.vv.xyz/ipfs/QmaaQjzL4iHXgPYaRi5WJcGBDAVSS3ARvkErM8i81Ax1g9?filename=truth-perception.png)
 *[Truth, Perception by Jack Butcher](https://foundation.app/mint/eth/0x66736F0484B079b662264CcB9099Ed2B1EdF7FdD/21)*
 
 Unity is more important than anything else in the world.

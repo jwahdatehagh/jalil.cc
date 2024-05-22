@@ -7,7 +7,7 @@ date: 2024-05-21
 *May 21st, 2024*
 # "Blurring the lines"
 
-![](/nfts/perspective.svg)
+![](https://ipfs.vv.xyz/ipfs/QmaXZ83VJ65cpbtbgEqMkEc5ML6LkuA6R3mdHUafxNbNHz)
 *[Perspective by Jack Butcher](https://foundation.app/mint/eth/0x66736F0484B079b662264CcB9099Ed2B1EdF7FdD/4)*
 
 i would like to offer a perspective on the ["that blur the lines of race & gender and reflect upon virtual versus real world identities"](https://x.com/cryptopunksnfts/status/1792594316172341315) line that got so much flack yesterday...
@@ -27,7 +27,7 @@ blurring the lines that separated us in the past is exactly what i feel like we 
 
 some artists do this by removing all color. some by adding more. i believe the underlying striving is the same: we want to belong and we simply want to be accepted, and either point away from a reality we want to change, or towards one we wish to exist.
 
-![](/nfts/nina.png)
+![](https://ipfs.vv.xyz/ipfs/Qmcv1GsgdK9UYNi4qctRsaCgaV2MJoamTGmecRFCCutq3Q)
 *[Super Cool World by Nina Chanel Abney](https://opensea.io/assets/ethereum/0x670d4dd2e6badfbbd372d0d37e06cd2852754a04/2596)*
 
 and this yearning i'm certain we will one day be able to elevate to just seeing the beauty, potential, strength, and contribution each of us bring to the table, regardless of our background.

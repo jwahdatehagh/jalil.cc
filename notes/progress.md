@@ -7,7 +7,7 @@ date: 2022-10-25
 *Oct 25th 2022, originally published on Discord*
 # On progress
 
-![](/on-progress.png)
+![](https://ipfs.vv.xyz/ipfs/QmYduWeAQKdJKt1StvdxuHTHouTqrFsESxVDNaQpzVMy89?filename=on-progress.png)
 
 Reflecting on what progress is, i think one can come to the conclusion that progress is always based on higher levels of unity. 
 
