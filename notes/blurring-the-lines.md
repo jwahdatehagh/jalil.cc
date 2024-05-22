@@ -8,7 +8,7 @@ date: 2024-05-21
 # "Blurring the lines"
 
 ![](/nfts/perspective.svg)
-*[Perspective by Visualize Value](https://foundation.app/mint/eth/0x66736F0484B079b662264CcB9099Ed2B1EdF7FdD/4)*
+*[Perspective by Jack Butcher](https://foundation.app/mint/eth/0x66736F0484B079b662264CcB9099Ed2B1EdF7FdD/4)*
 
 i would like to offer a perspective on the ["that blur the lines of race & gender and reflect upon virtual versus real world identities"](https://x.com/cryptopunksnfts/status/1792594316172341315) line that got so much flack yesterday...
 

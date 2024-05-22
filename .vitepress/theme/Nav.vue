@@ -21,7 +21,8 @@ const navLinks = computed(() => [
 nav {
   display: flex;
   gap: 1rem;
-  margin-bottom: 2rem;
+  max-width: var(--width);
+  margin: 0 auto 2rem;
 
   a {
     color: black;

@@ -1,5 +1,6 @@
 .content > div {
-  max-width: 30rem;
+  max-width: var(--width);
+  margin: 0 auto;
 
   & > *:first-child {
     margin-top: 0;
@@ -13,39 +14,65 @@
     + p:has(> em:first-child) {
       margin: -1rem 0 2rem;
       color: gray;
-      font-size: 0.8em;
+      font-size: var(--font-sm);
     }
   }
 
   p:has(> em:first-child):has(+ h1) {
-    margin-bottom: -0.8rem;
+    margin-bottom: calc(-1 * var(--font-sm));
     color: gray;
     text-align: right;
-    font-size: 0.8em;
+    font-size: var(--font-sm);
 
     em {
       font-style: normal;
+    }
+
+    a,
+    a:visited {
+      color: gray;
+    }
+  }
+
+  blockquote {
+    font-style: italic;
+    font-size: 1.19em;
+
+    > p > em:last-child {
+      display: block;
+      text-align: right;
+      font-size: var(--font-sm);
+      color: gray;
+
+      a,
+      a:visited {
+        color: gray;
+      }
+    }
+  }
+
+  ul,
+  ol {
+    padding-left: 1em;
+
+    li:not(:last-child) {
+      margin-bottom: 0.5em;
     }
   }
 
   img {
     max-width: 100%;
-    border: var(--border);
   }
 
-  p {
-    img + em {
-      font-size: 0.8em;
-      text-align: center;
-      display: block;
+  p img + em,
+  video + em {
+    font-size: var(--font-sm);
+    text-align: center;
+    display: block;
 
-      a {
-        color: gray;
-
-        &:visited {
-          color: gray;
-        }
-      }
+    a,
+    a:visited {
+      color: gray;
     }
   }
 }
