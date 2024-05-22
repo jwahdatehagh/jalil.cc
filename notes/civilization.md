@@ -1,6 +1,6 @@
 ---
 title: Civilization
-description: evolution = higher forms of unity
+description: principles for a new world
 date: 2023-10-13
 ---
 

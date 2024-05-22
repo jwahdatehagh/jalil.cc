@@ -1,5 +1,5 @@
 <template>
-  <video autoplay loop muted :poster="poster">
+  <video autoplay loop muted playsinline :poster="poster">
     <source :src="src" :type="type">
   </video>
   <em v-if="caption"><a :href="caption.link">{{ caption.text }}</a></em>
@@ -19,6 +19,7 @@ defineProps({
 
 <style>
 video {
+  width: 100%;
   max-width: var(--width);
 }
 </style>
