@@ -1,0 +1,54 @@
+.vp-code span {
+  color: var(--shiki-light, inherit);
+}
+
+div[class*='language-'] {
+  position: relative;
+  overflow-x: auto;
+
+  & > .copy,
+  & > .lang {
+    min-width: 2rem;
+    height: 2rem;
+    right: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  & > .copy {
+    position: absolute;
+    z-index: 3;
+    border: none;
+    background-color: white;
+    opacity: 0;
+    cursor: pointer;
+    background-image: var(--vp-icon-copy);
+    background-position: 50%;
+    background-size: 1rem;
+    background-repeat: no-repeat;
+    transition:
+      border-color 0.25s,
+      background-color 0.25s,
+      opacity 0.25s;
+
+    &:hover,
+    &:focus {
+      opacity: 1;
+    }
+
+    &.copied,
+    &:hover.copied {
+      background-image: var(--vp-icon-copied);
+    }
+  }
+
+  & > .lang {
+    position: absolute;
+    font-family: monospace;
+    color: hsl(0 0% 50%);
+  }
+}
+
+
