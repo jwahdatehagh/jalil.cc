@@ -5,7 +5,7 @@ export default defineConfig({
   title: "jalil",
   description: "consensus experiments on the world computer",
   head: [
-    ['link', { rel: 'icon', href: '/builder.jpg' }],
+    ['link', { rel: 'icon', href: 'https://ipfs.vv.xyz/ipfs/QmaetPt9Yd2XKXYq4VyqUc7YaWrnVWaV1uAoBHxbzPcwzR' }],
   ],
   themeConfig: {
     nav: [
@@ -19,4 +19,15 @@ export default defineConfig({
     base: '/',
   },
   cleanUrls: true,
+  transformPageData(pageData) {
+    const canonicalUrl = `https://jalil.cc/${pageData.relativePath}`
+      .replace(/index\.md$/, '')
+      .replace(/\.md$/, '')
+
+    pageData.frontmatter.head ??= []
+    pageData.frontmatter.head.push([
+      'link',
+      { rel: 'canonical', href: canonicalUrl }
+    ])
+  },
 })
