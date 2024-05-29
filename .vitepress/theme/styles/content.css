@@ -18,11 +18,14 @@
     }
   }
 
-  p:has(> em:first-child):has(+ h1) {
-    margin-bottom: calc(-1 * var(--font-sm));
+  p:first-child:has(> em:first-child) {
     color: gray;
     text-align: right;
     font-size: var(--font-sm);
+
+    &:has(+ h1) {
+      margin-bottom: calc(-1 * var(--font-sm));
+    }
 
     em {
       font-style: normal;
@@ -77,5 +80,12 @@
     a:visited {
       color: gray;
     }
+  }
+
+  hr {
+    margin: 3rem 0;
+    border-color: transparent;
+    border-top-color: lightgray;
+    border-style: solid;
   }
 }

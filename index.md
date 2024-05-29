@@ -16,6 +16,7 @@ consensus experiments at [visualize value](https://vv.xyz).
 
 ## notes & writing
 - [🌐 understanding cryptopunks](https://punks.vv.xyz) <!--ongoing-->
+- [📿 repetition of the mundane](./notes/repetition-of-the-mundane.md) <!--2024-05-29-->
 - [🧑‍🎄 blurring the lines](./notes/blurring-the-lines.md) <!--2024-05-22-->
 - [✔️ checks inheritance](https://x.com/jalil_eth/status/1718797133657034982) <!--2023-10-30-->
 - [🗽 civilization](./notes/civilization.md) <!--2023-10-13-->

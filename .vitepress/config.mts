@@ -18,7 +18,7 @@ export default defineConfig({
   vite: {
     base: '/',
   },
-  cleanUrls: true,
+  cleanUrls: false, // we can't do this as it breaks direct links on IPFS.
   transformPageData(pageData) {
     const canonicalUrl = `https://jalil.cc/${pageData.relativePath}`
       .replace(/index\.md$/, '')
