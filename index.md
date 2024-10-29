@@ -10,6 +10,7 @@ consensus experiments at [visualize value](https://vv.xyz).
 ## world computer things
 - [🐸 opepen](https://opepen.art)
 - [✔️ checks](https://checks.art)
+- [🔳 one day punks](https://onedaypunks.app/)
 - [🏞️ scapes](https://scapes.xyz)
 - [✍️ signature](https://signature.vv.xyz)
 - [💀 infinity](https://x.com/jalil_eth/status/1688723975940284416)
