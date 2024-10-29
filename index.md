@@ -5,9 +5,11 @@ class: home
 ![](https://ipfs.vv.xyz/ipfs/Qmaj7GtVsadwDZxj17DnXXHCpZqadPU3XaqGMLjzizMsF9){.profile-img}
 
 # jalil
+
 consensus experiments at [visualize value](https://vv.xyz).
 
 ## world computer things
+
 - [🐸 opepen](https://opepen.art)
 - [✔️ checks](https://checks.art)
 - [🔳 one day punks](https://onedaypunks.app/)
@@ -16,7 +18,9 @@ consensus experiments at [visualize value](https://vv.xyz).
 - [💀 infinity](https://x.com/jalil_eth/status/1688723975940284416)
 
 ## notes & writing
+
 - [🌐 understanding cryptopunks](https://punks.vv.xyz) <!--ongoing-->
+- [⛽️ gas & l1](./notes/l1-and-gas-odp-story.md) <!--2024-10-29 -->
 - [📿 repetition of the mundane](./notes/repetition-of-the-mundane.md) <!--2024-05-29-->
 - [🧑‍🎄 blurring the lines](./notes/blurring-the-lines.md) <!--2024-05-22-->
 - [✔️ checks inheritance](https://x.com/jalil_eth/status/1718797133657034982) <!--2023-10-30-->
@@ -29,6 +33,7 @@ consensus experiments at [visualize value](https://vv.xyz).
 - [🌍 unity](./notes/unity.md) <!--2022-02-24-->
 
 ## links
+
 - [x.com](https://x.com/jalil_eth)
 - [warpcast](https://warpcast.com/jalil)
 - [telegram](https://telegram.me/jwahdatehagh)
