@@ -10,6 +10,7 @@ consensus experiments at [visualize value](https://vv.xyz).
 
 ## world computer things
 
+- [⛓️  mint](https://docs.mint.vv.xyz)
 - [🐸 opepen](https://opepen.art)
 - [✔️ checks](https://checks.art)
 - [🔳 one day punks](https://onedaypunks.app/)
@@ -34,6 +35,7 @@ consensus experiments at [visualize value](https://vv.xyz).
 
 ## links
 
+- [mints](https://mint.jalil.cc)
 - [x.com](https://x.com/jalil_eth)
 - [warpcast](https://warpcast.com/jalil)
 - [telegram](https://telegram.me/jwahdatehagh)
