@@ -36,7 +36,7 @@ consensus experiments at [visualize value](https://vv.xyz).
 ## links
 
 - [networked.art](https://networked.art/0xe11da9560b51f8918295edc5ab9c0a90e9ada20b)
-- [x.com](https://x.com/jalil_eth)
+- [x.com](https://x.com/jalilwahdat)
 - [warpcast](https://warpcast.com/jalil)
 - [telegram](https://telegram.me/jwahdatehagh)
 - [github](http://github.com/jwahdatehagh)
