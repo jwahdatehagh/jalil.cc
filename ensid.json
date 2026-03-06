@@ -1,0 +1,92 @@
+{
+  "version": "https://ensid.org/version/0.1",
+  "name": "jalil wahdatehagh",
+  "ens": "jalil.eth",
+  "bio": "work in the spirit of service is worship.",
+  "avatar": "https://euc.li/jalil.eth",
+  "url": "https://jalil.cc",
+  "location": "internet",
+
+  "links": [
+    { "type": "github", "url": "https://github.com/jwahdatehagh" },
+    { "type": "twitter", "url": "https://x.com/jalilwahdat" }
+  ],
+
+  "experience": [
+    {
+      "title": "Gardener",
+      "organization": "1001.digital",
+      "start_date": "2019-01"
+    },
+    {
+      "title": "Apprentice",
+      "organization": "Visualize Value",
+      "start_date": "2023-01"
+    },
+    {
+      "title": "Developer",
+      "organization": "EthID",
+      "start_date": "2026-02"
+    }
+  ],
+
+  "collections": [
+    {
+      "title": "Art",
+      "description": "Networked art projects on Ethereum.",
+      "works": [
+        {
+          "title": "Opepen",
+          "url": "https://opepen.art",
+          "description": "One symbol by Visualize Value, infinite remixes by anyone, 200 final sets by collector vote",
+          "date": "2023",
+          "tags": ["ethereum", "art"]
+        },
+        {
+          "title": "Checks Originals",
+          "url": "https://checks.art",
+          "description": "This artwork may or may not be notable",
+          "date": "2023",
+          "tags": ["ethereum", "art"]
+        },
+        {
+          "title": "Scapes",
+          "url": "https://scapes.xyz",
+          "description": "Welcome home - 10.000 pixel-art landscapes on Ethereum",
+          "date": "2021",
+          "tags": ["ethereum", "art"]
+        }
+      ]
+    },
+    {
+      "title": "Open Source",
+      "description": "Protocols and tools built in the open.",
+      "works": [
+        {
+          "title": "ENSid",
+          "type": "software",
+          "url": "https://ensid.org",
+          "description": "Decentralized identity profiles for ENS.",
+          "date": "2026",
+          "tags": ["ethereum", "ens"]
+        },
+        {
+          "title": "Observations",
+          "type": "software",
+          "url": "https://observations.art",
+          "description": "Leave notes on digital art and support the creator.",
+          "date": "2026",
+          "tags": ["ethereum", "art", "protocol"]
+        },
+        {
+          "title": "VV Mint",
+          "type": "software",
+          "url": "https://docs.mint.vv.xyz",
+          "description": "Mint is an open source internet protocol enabling the creation and collection of digital artifacts on the Ethereum Virtual Machine.",
+          "date": "2024",
+          "tags": ["ethereum", "art", "protocol"]
+        }
+      ]
+    }
+  ]
+}
