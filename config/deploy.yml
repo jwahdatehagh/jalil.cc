@@ -1,0 +1,26 @@
+service: jalil-cc
+image: jwahdatehagh/jalil-cc
+
+servers:
+  web:
+    hosts:
+      - 89.167.113.201
+
+proxy:
+  ssl: true
+  host: jalil.cc
+  app_port: 80
+  healthcheck:
+    path: /
+
+registry:
+  username: jwahdatehagh
+  password:
+    - KAMAL_REGISTRY_PASSWORD
+
+builder:
+  arch: amd64
+  context: ./
+
+ssh:
+  user: root
