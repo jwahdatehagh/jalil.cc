@@ -4,13 +4,15 @@ class: home
 
 ![](https://ipfs.vv.xyz/ipfs/Qmaj7GtVsadwDZxj17DnXXHCpZqadPU3XaqGMLjzizMsF9){.profile-img}
 
-# jalil
+# jalil sebastian wahdatehagh
 
-consensus experiments at [visualize value](https://vv.xyz).
+gardener [@onezerozeroone](https://1001.digital)<br>
+apprentice [@visualizevalue](https://visualizevalue.com)<br>
+open source [@ethid](https://ethid.org)
 
 ## world computer things
 
-- [⛓️  mint](https://docs.mint.vv.xyz) · _[(my mints)](https://mint.jalil.cc)_
+- [⛓️ mint](https://docs.mint.vv.xyz) · _[(my mints)](https://mint.jalil.cc)_
 - [🐸 opepen](https://opepen.art)
 - [✔️ checks](https://checks.art)
 - [🔳 one day punks](https://onedaypunks.app/)
