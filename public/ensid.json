@@ -1,16 +1,5 @@
 {
   "version": "https://ensid.org/version/0.1",
-  "name": "jalil wahdatehagh",
-  "ens": "jalil.eth",
-  "bio": "work in the spirit of service is worship.",
-  "avatar": "https://euc.li/jalil.eth",
-  "url": "https://jalil.cc",
-  "location": "internet",
-
-  "links": [
-    { "type": "github", "url": "https://github.com/jwahdatehagh" },
-    { "type": "twitter", "url": "https://x.com/jalilwahdat" }
-  ],
 
   "experience": [
     {
