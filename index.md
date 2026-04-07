@@ -16,10 +16,10 @@ open source [@ethid](https://ethid.org)
 - [⛓️ mint](https://docs.mint.vv.xyz) · _[(my mints)](https://mint.jalil.cc)_
 - [🐸 opepen](https://opepen.art)
 - [✔️ checks](https://checks.art)
-- [🔳 one day punks](https://onedaypunks.app/)
 - [🏞️ scapes](https://scapes.xyz)
-- [✍️ signature](https://signature.vv.xyz)
 - [💀 infinity](https://x.com/jalil_eth/status/1688723975940284416)
+  <!-- - [🔳 one day punks](https://onedaypunks.app/) -->
+  <!-- - [✍️ signature](https://signature.vv.xyz)-->
 
 ## notes & writing
 
