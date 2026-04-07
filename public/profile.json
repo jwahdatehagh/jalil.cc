@@ -22,6 +22,20 @@
 
   "collections": [
     {
+      "title": "Apps",
+      "description": "World computer apps and tools.",
+      "works": [
+        {
+          "title": "EVM.NOW",
+          "type": "software",
+          "url": "https://evm.now",
+          "description": "A new way to search Ethereum.",
+          "date": "2026",
+          "tags": ["ethereum"]
+        }
+      ]
+    },
+    {
       "title": "Art",
       "description": "Networked art projects on Ethereum.",
       "works": [

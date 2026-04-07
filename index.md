@@ -12,6 +12,7 @@ open source [@ethid](https://ethid.org)
 
 ## world computer things
 
+- [🔍 evm.now](https://evm.now)
 - [⛓️ mint](https://docs.mint.vv.xyz) · _[(my mints)](https://mint.jalil.cc)_
 - [🐸 opepen](https://opepen.art)
 - [✔️ checks](https://checks.art)
