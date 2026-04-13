@@ -1,5 +1,6 @@
 ---
 class: home
+description: "Jalil Sebastian Wahdatehagh — gardener at 1001.digital, apprentice at Visualize Value, and open source builder on Ethereum."
 ---
 
 ![](https://ipfs.vv.xyz/ipfs/Qmaj7GtVsadwDZxj17DnXXHCpZqadPU3XaqGMLjzizMsF9){.profile-img}
