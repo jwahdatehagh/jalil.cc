@@ -39,7 +39,7 @@ apprentice [@visualizevalue](https://visualizevalue.com)
 
 ## links
 
-- [networked.art](https://networked.art/0xe11da9560b51f8918295edc5ab9c0a90e9ada20b)
+- [networked.art](https://networked.art/jalil)
 - [x.com](https://x.com/jalilwahdat)
 - [warpcast](https://warpcast.com/jalil)
 - [telegram](https://telegram.me/jwahdatehagh)
