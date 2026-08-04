@@ -13,6 +13,7 @@ open source [@ethid](https://ethid.org)
 
 ## world computer things
 
+- [🔍 networked.art](https://networked.art)
 - [🔍 evm.now](https://evm.now)
 - [⛓️ mint](https://docs.mint.vv.xyz) · _[(my mints)](https://mint.jalil.cc)_
 - [🐸 opepen](https://opepen.art)
