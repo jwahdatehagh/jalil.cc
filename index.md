@@ -8,8 +8,7 @@ description: "Jalil Sebastian Wahdatehagh — gardener at 1001.digital, apprenti
 # jalil sebastian wahdatehagh
 
 gardener [@onezerozeroone](https://1001.digital)<br>
-apprentice [@visualizevalue](https://visualizevalue.com)<br>
-open source [@ethid](https://ethid.org)
+apprentice [@visualizevalue](https://visualizevalue.com)
 
 ## world computer things
 
